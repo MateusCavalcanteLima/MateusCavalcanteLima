@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://pt.bloggif.com/tmp/5eb5e76758885165bfcc0abf504f55d1/text.gif?1741712990">
+    <img src="programmer.gif" width="300">
   </a>
 </div>
 
