@@ -2,7 +2,8 @@
 
 #
 
-<p align="center">Estudante de Sistemas para Internet no Centro Universitário UNIESP. Atualmente, estou focado no estudo de HTML e CSS, desenvolvendo habilidades para criar interfaces web responsivas e intuitivas. Estou sempre aprendendo e me desafiando para evoluir na área de tecnologia. Tenho paixão por adquirir novos conhecimentos e transformá-los em soluções inovadoras.
+<p align="center">Estudante de Sistemas para Internet no Centro Universitário UNIESP. Atualmente, estou focado no estudo de Java e no desenvolvimento back-end, com ênfase na criação de APIs, integração com bancos de dados e lógica de programação. Estou sempre em busca de novos desafios para aprimorar minhas habilidades técnicas. Tenho paixão por adquirir novos conhecimentos e aplicá-los na construção de soluções robustas e eficientes.
+
   
 #
 
