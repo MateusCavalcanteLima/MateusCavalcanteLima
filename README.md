@@ -1,10 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="programmer.gif" width="250">
-  </a>
-</div>
-
-<img align="center" alt="" src="./src/header-gif.gif">
+![](./profile-3d-contrib/profile-night-green.svg)
 
 #
 
@@ -48,4 +42,3 @@
 
 #
 
-![](./profile-3d-contrib/profile-green-animate.svg)
